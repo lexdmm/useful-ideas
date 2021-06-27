@@ -22,7 +22,7 @@ shell:common startup
 
 ## Copy the file wslrestart.bat
 
-Copy the file **wslrestart.bat** that is here in the repository and move it into your startup folder.
+Copy the file **wslrestart.bat** that is here in the repository in **doc** folder and move it into your startup folder.
 
 ![startup folder](https://github.com/lexdmm/utils/blob/master/img/startup-folder.png)
 
