@@ -8,5 +8,5 @@
 
 **List below:**
 
-Vs Code Error message: "Vs Code Server for WSL closed unexpectedly. Check WSL terminal for more details" 
+**1 - Vs Code Error message:** "Vs Code Server for WSL closed unexpectedly. Check WSL terminal for more details" 
 https://github.com/lexdmm/useful-ideas/tree/master/doc/script-restart-wsl
